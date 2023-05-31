@@ -1,3 +1,3 @@
 # Abnormal_Detection_Crane
 
-# 예지보전
+# 모터에 대한 예지보전
