@@ -6,4 +6,5 @@
 
 # 사고 전 데이터 검토
 
-# MSE Error
+# MSE Reconstruct error
+
