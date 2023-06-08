@@ -8,3 +8,4 @@
 
 # MSE Reconstruct error
 
+# hardware 설치 검토
