@@ -8,4 +8,4 @@
 
 # MSE Reconstruct error
 
-# hardware 설치 검토
+# hardware 설치 검토, 고속 카메라
