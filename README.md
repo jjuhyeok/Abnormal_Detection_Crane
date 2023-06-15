@@ -8,6 +8,6 @@
 
 # MSE Reconstruct error
 
-# hardware 설치 검토, 고속 카메라
+# hardware 설치 검토, 고속 카메라, 단축/다축
 
 # XAI
